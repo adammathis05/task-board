@@ -19,4 +19,5 @@ To add a screenshot, create an `assets/images` folder in your repository and upl
 - https://getbootstrap.com/docs/5.3/components/modal/
 - https://jqueryui.com/draggable/
 - AskBCS Learning Assistant
-- 
+- https://jqueryui.com/datepicker/
+  
